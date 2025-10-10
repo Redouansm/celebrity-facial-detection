@@ -1,4 +1,4 @@
-Celebrity Facial Detection
+#Celebrity Facial Detection
 This project implements a facial detection system focused on recognizing celebrities from images. It leverages machine learning techniques to detect and identify faces in images, with a potential focus on a dataset of celebrity faces. The system is designed to process images, extract facial features, and classify them using a trained model.
 Description
 The Celebrity Facial Detection project aims to:
@@ -102,6 +102,13 @@ Potential improvements: Use deep learning models (e.g., CNNs) for better accurac
 Authors
 
 Redouane Smahri - Developer and researcher.
- licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+
+Thanks to mentors and professors for guidance (e.g., Mr. Mohammed Khalil, Mr. Abdellah Adib, if applicable).
+Inspired by advancements in computer vision and machine learning.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 For issues or contributions, please open an issue or pull request on GitHub. 😊
